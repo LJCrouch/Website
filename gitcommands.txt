@@ -2,8 +2,23 @@
 
 Setting up a repo 
 git init 
+git remote add <name> <address> 
+git pull
+git push 
 
 
 Using a repo 
+-----------------------------
 git status 
 git add -A
+git commit -m "what did you do?!" 
+git push 
+
+
+
+Branches 
+-----------------------------
+git branch (show branches) 
+git checkout -b <branch name> (create a new branch) 
+git checkout <branch name> (swap to branch) 
+git merge <branch name> (merge the named branch into the current branch) 
