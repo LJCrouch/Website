@@ -1,0 +1,9 @@
+
+
+Setting up a repo 
+git init 
+
+
+Using a repo 
+git status 
+git add -A
