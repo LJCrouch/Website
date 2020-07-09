@@ -1,0 +1,93 @@
+header{
+	background-image:url(https://www.pxwall.com/wp-content/uploads/2018/03/Red-Clouds-Nature-4K-Wallpapers-UHD.jpg);
+		height: 100vh;
+		background-size: cover;
+		background-position: 30px 60px;
+		color: black;
+		background; animation: backwards;
+		border-radius: 50vh;
+}
+
+ul{
+	float: left;
+	list-style-type: order;
+	margin-top: 25px
+}
+
+ul li{
+	list-style-type: none;
+}
+
+ul li a{
+		t
+		list-style-type: none;
+		font-variant-caps: all-small-caps;
+		font-size: 20px;
+		display: list-item;
+		background-color: rgba(133, 4, 4, 0.5);
+		text-align: center;
+			padding: 1px 15px;
+			border: 2px solid black;
+				color: black;
+		text
+}
+
+ul li a:hover{
+	color: white;
+	text-decoration: underline;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	font-variant-caps: all-small-caps;
+	background-color: rgba(157,182,148,0.66);
+	padding: 1px 15px;
+		border: 2px solid;
+		border-color: black;
+
+}
+
+ul li b{
+	list-style-type: none;
+		font-variant-caps: all-small-caps;
+		font-size: 16px;
+		background-color: rgba(133, 4, 4, 0.5);
+		text-align: center;
+			padding: 1px 15px;
+			border: 2px solid #fff;
+				color: #fff;
+}
+
+ul li b:hover{
+	list-style-type: none;
+	color: white;
+	text-decoration: underline;
+	display: block;
+	font-size: 17px;
+	font-weight: bold;
+	font-variant-caps: all-small-caps;
+	background-color: rgba(157,182,148,0.66);
+	padding: 1px 15px;
+	text-align: center;
+		border: 2px solid;
+		border-color: white;
+}
+
+.main{
+	margin: 14px;
+}
+
+.login{
+	float: right;
+	font-weight: bold;
+	font-size: 18px;
+	border-bottom-color: grey;
+
+	}
+
+.logo img{
+	 
+	width: 30px;
+	height: auto;
+	list-style-image: block;  
+	border-left: 0px 
+	margin: 0px;
